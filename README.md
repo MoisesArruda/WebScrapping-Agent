@@ -1,6 +1,7 @@
 # AI Agent - Avaliação de Negócios
 
 Uma aplicação completa para análise de startups e ideias de negócio usando inteligência artificial, desenvolvida com Streamlit e LangGraph.
+![Estrutura](https://github.com/MoisesArruda/WebScrapping-Agent/blob/main/data/graph.png)
 
 ## 🚀 Funcionalidades
 
