@@ -13,7 +13,7 @@ st.set_page_config(
 )
 
 # Variável para imagem da sidebar (pode ser personalizada)
-sidebar_image = "data/ArrudaConsulting.jpeg"
+sidebar_image = "data/Logo-Arruda-Consulting.png"
 
 def page_config(layout: str = "wide", initial_sidebar_state: str = "auto"):
     """
